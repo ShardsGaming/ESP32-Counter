@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Source files
+*.ino text
+*.h text
+*.cpp text
+*.c text
+
+# Documentation
+*.md text
+*.txt text
+
+# Declare files that will always have specific line endings
+*.ino text eol=lf
+*.h text eol=lf
+*.cpp text eol=lf
+*.c text eol=lf
+
+# Binary files
+*.bin binary
+*.hex binary
