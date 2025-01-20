@@ -2,6 +2,20 @@
 
 A high-precision dual-input counter built around the ESP32, featuring a premium Cherry MX Red linear switch and real-time wireless monitoring. With over 40,000 verified actuations, this device delivers reliable event tracking for both professional and recreational applications.
 
+## Live Demo & Interface
+
+![WiFi Connection](assets/Wifi%20Network.png)
+*Strong and secure WiFi connection*
+
+![Web Interface](assets/Web%20Interface.png)
+*Real-time counter interface in action*
+
+https://github.com/ShardsGaming/ESP32-Counter/assets/Continuity%20After%20Power%20Loss.mp4
+
+*Demonstrating persistent storage and count retention across power cycles*
+
+
+
 ## Core Features
 - Dual-input counting system (ESP32 BOOT + Cherry MX Red)
 - Real-time wireless monitoring via web interface
